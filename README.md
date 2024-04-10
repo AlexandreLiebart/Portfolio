@@ -12,12 +12,14 @@
 ##### Création d'application web au sein d'un intranet
 - PHP orienté objet
 - utilisation  d'un framework MVC (CodeIgniter)
+
 ### 2015 : Stage de fin d’étude DUT Informatique
 #### Stage de 3 mois dans l’entreprise [Double Clic](https://www.doclic.fr/) :
 ##### Création et maintenance de site web :
 Compétences travaillées :
 - PHP
 - SQL
+
 ## Diplômes
 - 2016 : Licence Informatique - Université Lille 1
 - 2015 : DUT Informatique - iut A de l’Université Lille 1
