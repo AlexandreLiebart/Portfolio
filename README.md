@@ -24,6 +24,7 @@ Compétences travaillées :
 - 2016 : Licence Informatique - Université Lille 1
 - 2015 : DUT Informatique - iut A de l’Université Lille 1
 - 2013 : Baccalauréat Scientifique spécialité Mathématiques - Lycée Louis Pasteur Lille
+
 ## Loisirs
 - Jeux de société
 - Jeux de rôle
