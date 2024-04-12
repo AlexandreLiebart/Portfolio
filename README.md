@@ -6,6 +6,16 @@
 - Loisirs
 
 ## Compétences
+### Langages
+
+### Framework
+
+### Librairie
+
+### SGBD
+
+### Systèmes d'exploitation
+
 ## Expériences
 ### 2016 : Stage de fin d’étude Licence Informatique
 #### Stage de 3 mois dans l’entreprise [Enedis](https://www.enedis.fr/) :
@@ -22,7 +32,7 @@ Compétences travaillées :
 
 ## Diplômes
 - 2016 : Licence Informatique - Université Lille 1
-- 2015 : DUT Informatique - iut A de l’Université Lille 1
+- 2015 : DUT Informatique - IUT A de l’Université Lille 1
 - 2013 : Baccalauréat Scientifique spécialité Mathématiques - Lycée Louis Pasteur Lille
 
 ## Loisirs
