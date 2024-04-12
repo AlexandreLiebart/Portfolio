@@ -8,13 +8,23 @@
 ## Compétences
 ### Langages
 
+**Java**, **PHP**, **SQL**,  JavaScript, HTML 5, CSS 3, C
+
 ### Framework
+
+CodeIgniter
 
 ### Librairie
 
+Jquery
+
 ### SGBD
 
+PostgreSQL, mySQL
+
 ### Systèmes d'exploitation
+
+Windows, Linux
 
 ## Expériences
 ### 2022-2024 : Maintenance du site [12000-volts.fr](https://www.12000-volts.fr/) & suivi SEA
