@@ -7,11 +7,20 @@
 
 ## Compétences
 ## Expériences
+### 2022-2024 : Maintenance du site [12000-volts.fr](https://www.12000-volts.fr/) & suivi SEA
+- Utilisation de Drupal
+- Utilisation de Google ADS
+
+### 2017-2024 : AED & Référent TICE au [Collège Le Triolo](https://college-le-triolo-villeneuve-dascq.59.ac-lille.fr/)
+##### Maintenance de parc informatique
+
+##### Accompagnement éducatif en informatique
+
 ### 2016 : Stage de fin d’étude Licence Informatique
 #### Stage de 3 mois dans l’entreprise [Enedis](https://www.enedis.fr/) :
 ##### Création d'application web au sein d'un intranet
 - PHP orienté objet
-- utilisation  d'un framework MVC (CodeIgniter)
+- Utilisation  d'un framework MVC (CodeIgniter)
 
 ### 2015 : Stage de fin d’étude DUT Informatique
 #### Stage de 3 mois dans l’entreprise [Double Clic](https://www.doclic.fr/) :
